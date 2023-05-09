@@ -1,0 +1,48 @@
+about:
+    name: Simão Silva
+    tagline: COMPUTER SCIENCE AND ENGINEERING STUDENT
+    email: simaosilvassa@gmail.com
+    location: f
+    links:
+        - title: Simão Silva
+          url: https://www.linkedin.com/in/sim%C3%A3o-silva-a3599b186
+          icon: fab fa-linkedin
+        - title: Simons36
+          url: https://github.com/Simons36
+          icon: fab fa-github
+    details: |
+        My name is Simão Silva, I am 20 years old and a Computer Science and Engineering student at Instituto Superior Técnico (IST). I have a strong interest in areas like Distributed Systems and Computer Networks.
+
+skills:
+    - groupName: Programming
+      list:
+          - C/C++
+          - Java
+          - Python
+          - SQL
+
+    - groupName: OSs
+      list:
+          - Fedora
+          - Ubuntu
+          - Windows
+
+    - groupName: Tools & Software
+      list:
+          - Git
+          - VSCode
+
+interests:
+    - Computer Networking
+    - Distributed Systems
+    - Backend development
+    - OOC (Object-oriented programming)
+    - Linux
+
+languages:
+    - name: Portuguese
+      level: Native
+
+    - name: English
+      level: C1
+

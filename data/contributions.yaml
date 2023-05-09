@@ -1,0 +1,10 @@
+contributions:
+  - title: "eItems"
+    link: "https://github.com/ESK0/eItems"
+    date: "2023"
+    details: |
+      Added a new feature to the plugin, more specifically, a couple of new natives.
+    links:
+    - title: Available in GitHub
+      url: https://github.com/ESK0/eItems
+      icon: fab fa-github
