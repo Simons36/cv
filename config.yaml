@@ -84,13 +84,9 @@ params:
     links:
       - prefix: Contact me on
         title: Linkedin
-        url: 'https://linkedin.com/in/tomasmcorreia/'
+        url: 'https://www.linkedin.com/in/sim%C3%A3o-silva-a3599b186/'
         icon: fab fa-linkedin
-      - prefix: Check out my
-        title: Website
-        url: 'https://tomascorreia.net'
-        icon: fas fa-globe
       - prefix: Source code on
         title: Github
-        url: 'https://github.com/corrreia/cv'
+        url: 'https://github.com/Simons36/cv'
         icon: fab fa-github
