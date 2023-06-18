@@ -1,18 +1,27 @@
-# Use an official Hugo image as the base image
-FROM klakegg/hugo:ext
+# Use the official Hugo Docker image as the base image
+FROM klakegg/hugo:ext-alpine
 
-# Set the working directory
-WORKDIR /src
+# Set the working directory inside the container
+WORKDIR /site
 
-# Copy the contents of the current directory to the working directory
-COPY . .
+# Copy the source code of the Hugo website to the container
+COPY . /site
 
 # Add the following lines to sync and update the Git submodules
 RUN git submodule sync --recursive && \
     git submodule update --init --recursive
 
-# Expose the default Hugo server port
-EXPOSE 1313
+# Build the Hugo static website
+RUN hugo --minify --verbose
 
-# Start the Hugo server
-CMD ["server", "--bind", "0.0.0.0", "--port", "1313"]
+# Use a lightweight web server to serve the static website
+FROM nginx:alpine
+
+# Copy the generated static files from the previous stage to the Nginx server's web root directory
+COPY --from=0 /site/public /usr/share/nginx/html
+
+# Expose the default Nginx port
+EXPOSE 80
+
+# Start the Nginx server when the container starts
+CMD ["nginx", "-g", "daemon off;"]
