@@ -17,7 +17,20 @@
 		{{ end }}
 	{{ end }}
 	<title itemprop="name">{{ .Site.Title }}</title>
+
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EY22N4WPQC"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-EY22N4WPQC');
+	</script>
+
 </head>
+
+
 
 <body>
 	<main class="paper">
