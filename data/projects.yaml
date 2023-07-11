@@ -15,3 +15,7 @@ projects:
     url: https://github.com/Simons36/Projeto-CG
   - title: AI Project, algorithm for game Takuzu
     url: https://github.com/Simons36/takuzu
+- title: "Personal Projects"
+  links:
+  - title: My Personal Website
+    url: https://simaosilva.com/
