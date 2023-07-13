@@ -1,3 +1,3 @@
 # CV
 
-Source code of my CV, available [here](https://cv.simaosilva.com/).
+Source code of my CV, check it out [here](https://cv.simaosilva.com/).
