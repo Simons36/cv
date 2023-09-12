@@ -72,6 +72,9 @@ params:
         # - feature: experience
         - feature: projects
           collection: projects
+        - feature: certifications
+          title: Certifications
+          collection: certifications
         - feature: hobby
           title: Hobbies and Volunteering
           collection: hobby
