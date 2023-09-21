@@ -76,7 +76,7 @@ params:
           title: Certifications
           collection: certifications
         - feature: hobby
-          title: Hobbies and Volunteering
+          title: Hobbies
           collection: hobby
         
   footer:
