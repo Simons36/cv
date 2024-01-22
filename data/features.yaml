@@ -14,7 +14,7 @@ about:
           url: https://simaosilva.com
           icon: fas fa-globe
     details: |
-        My name is Simão Silva, I am 21 years old and a Computer Science and Engineering student at Instituto Superior Técnico (IST). I have a strong interest in areas like Distributed Systems and Computer Networks.
+        My name is Simão Silva, I am 21 years old and a Computer Science and Engineering student at Instituto Superior Técnico (IST). I have a strong interest in areas like **Distributed Systems**, **Computer Networks** and **Cybersecurity**.
 
 skills:
     - groupName: Programming
@@ -22,20 +22,29 @@ skills:
           - C/C++
           - Java
           - Python
+          - C#
           - SQL
-          - JavaScript
+          - JavaScript (basic)
           - Rust (basic)
 
     - groupName: OSs
       list:
           - Fedora
-          - Ubuntu
+          - Ubuntu/Debian
           - Windows
 
     - groupName: Tools & Software
       list:
           - Git
           - VSCode
+          - Markdown
+          - Grpc and Protobuf
+          - Wireshark (basic)
+
+    - groupName: Frameworks
+      list:
+          - .NET
+          - Springboot (basic)
 
 interests:
     - Computer Networking
@@ -43,7 +52,7 @@ interests:
     - Backend development
     - OOC (Object-oriented programming)
     - Cybersecurity
-    - Linux
+    - Operating Systems
 
 languages:
     - name: Portuguese
