@@ -36,10 +36,9 @@ skills:
     - groupName: Tools & Software
       list:
           - Git
-          - VSCode
           - REST APIs
           - Grpc and Protobuf
-          - Markdown
+          - Blockchain (basic)
           - Wireshark (basic)
 
     - groupName: Frameworks
