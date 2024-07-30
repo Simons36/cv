@@ -2,19 +2,13 @@ projects:
 - title: "University Projects"
   # subtitle: "University of Lisbon"
   # link: "https://github.com/corrreia?tab=repositories"
-  details: |
-    Multiple projects developed during my studies at IST.
   links:
-  - title: Computer Networks Project, word guessing game with client & server in C
+  - title: Computer Networks Project, word guessing game w/ client & server in C
     url: https://github.com/Simons36/word_game-rc
   - title: Distributed Crypto Ledger in Java
     url: https://github.com/Simons36/DistLedger
   - title: Operating Systems Project, file system in C
     url: https://github.com/Simons36/Operating-Systems-Project
-  - title: Computer Graphics Project, scene modelation using three.js
-    url: https://github.com/Simons36/Projeto-CG
-  - title: AI Project, algorithm for game Takuzu
-    url: https://github.com/Simons36/takuzu
 - title: "Personal Projects"
   links:
   - title: My Personal Website

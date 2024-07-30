@@ -1,0 +1,5 @@
+- company: Accenture Portugal
+  roles:
+    - role: Techonology Summer Intern
+      details: "In my tenure with Accenture as a summer intern, I was integrated into the Data department, where I was responsible for developing a custom chatbot application for internal usage, that communicated with OpenAI API, and had integrations with Jira and Confluence."
+      date: "July 2024"

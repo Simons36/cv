@@ -60,6 +60,9 @@ params:
       widget: word-list
       style: compact # list, compact, title-list
     - feature: languages
+    - feature: certifications
+      title: Certifications
+      collection: certifications
     - feature: interests
       widget: word-list
       style: list
@@ -69,12 +72,10 @@ params:
           title: About Me
         - feature: education
           title: Education
-        # - feature: experience
+        - feature: experience
+          title: Experience
         - feature: projects
           collection: projects
-        - feature: certifications
-          title: Certifications
-          collection: certifications
         - feature: hobby
           title: Hobbies
           collection: hobby
