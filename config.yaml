@@ -68,8 +68,8 @@ params:
       style: list
   pages:
     - features:
-        - feature: about
-          title: About Me
+        # - feature: about
+        #   title: About Me
         - feature: education
           title: Education
         - feature: experience

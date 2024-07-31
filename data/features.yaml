@@ -38,12 +38,15 @@ skills:
           - Git
           - REST APIs
           - Grpc and Protobuf
+          - VSCode
+          - Android Studio
           - Blockchain (basic)
           - Wireshark (basic)
 
     - groupName: Frameworks
       list:
           - .NET
+          - Android Development
           - Springboot (basic)
 
 interests:

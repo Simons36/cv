@@ -3,13 +3,17 @@ projects:
   # subtitle: "University of Lisbon"
   # link: "https://github.com/corrreia?tab=repositories"
   links:
-  - title: Computer Networks Project, word guessing game w/ client & server in C
-    url: https://github.com/Simons36/word_game-rc
   - title: Distributed Crypto Ledger in Java
     url: https://github.com/Simons36/DistLedger
-  - title: Operating Systems Project, file system in C
+  - title: Permissioned blockchain system with high dependability guarantees
+    url: https://github.com/Simons36/hds-serenity-ledger
+  - title: E2E encrypted music streaming service
     url: https://github.com/Simons36/Operating-Systems-Project
+  - title: PharmacIST, client & server for Android application with location services
+    url: https://github.com/Simons36/PharmacIST
 - title: "Personal Projects"
   links:
   - title: My Personal Website
     url: https://simaosilva.com/
+  - title: A website for personal and course documentation (in development)
+    url: https://github.com/Simons36/docusaurus-site
