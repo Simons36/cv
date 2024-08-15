@@ -3,8 +3,8 @@ projects:
   # subtitle: "University of Lisbon"
   # link: "https://github.com/corrreia?tab=repositories"
   links:
-  - title: Distributed Crypto Ledger in Java
-    url: https://github.com/Simons36/DistLedger
+  # - title: Distributed Crypto Ledger in Java
+  #   url: https://github.com/Simons36/DistLedger
   - title: Permissioned blockchain system with high dependability guarantees
     url: https://github.com/Simons36/hds-serenity-ledger
   - title: E2E encrypted music streaming service
