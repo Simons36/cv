@@ -76,6 +76,7 @@ params:
           title: Experience
         - feature: projects
           collection: projects
+    - features:
         - feature: hobby
           title: Hobbies
           collection: hobby
