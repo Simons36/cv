@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://simons36.github.io/cv/"
 languageCode: "en-us"
 title: "CV | Simão Silva"
 disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
