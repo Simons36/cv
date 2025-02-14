@@ -42,6 +42,7 @@ skills:
           - Proxmox
           - Ansible
           - Terraform
+          - Grafana
           - Grpc and Protobuf
           - VSCode / Android Studio
           - Kubernetes (basic)
