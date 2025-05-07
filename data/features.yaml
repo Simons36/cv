@@ -25,9 +25,9 @@ skills:
           - C#
           - SQL
           - Typescript
-          - HTML/CSS
+          - HTML/CSS (basic)
           - JavaScript (basic)
-          - Rust (basic)
+          - Go (basic)
 
     - groupName: OSs
       list:
@@ -39,12 +39,12 @@ skills:
       list:
           - Git
           - Docker
-          - Proxmox
+          - Grafana
           - Ansible
           - Terraform
-          - Grafana
           - Grpc and Protobuf
           - VSCode / Android Studio
+          - Proxmox (basic)
           - Kubernetes (basic)
 
     - groupName: Frameworks
@@ -57,6 +57,7 @@ skills:
 interests:
     - Distributed Systems
     - Computer Networking
+    - Backend Development
     - DevOps
     - Data
     - Cybersecurity
