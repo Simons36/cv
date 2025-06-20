@@ -14,7 +14,7 @@ about:
           url: https://simaosilva.com
           icon: fas fa-globe
     details: |
-        Computer Science and Engineering student at Instituto Superior Técnico (IST), intern at Card4B. Strong interest in **Distributed Systems**, **DevOps** and **Data Science**.
+        Computer Science and Engineering student at Instituto Superior Técnico, intern at Card4B. Strong interest in **Distributed Systems**, **DevOps** and **Data Science**.
 
 skills:
     - groupName: Programming
@@ -44,6 +44,7 @@ skills:
           - Terraform
           - Grpc and Protobuf
           - VSCode / Android Studio
+          - Google Cloud (basic)
           - Proxmox (basic)
           - Kubernetes (basic)
 
