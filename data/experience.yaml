@@ -8,5 +8,5 @@
 - company: Card4B Systems
   roles:
     - role: Backend Software Engineer Intern
-      details: "As part of my master's thesis, I am currently an intern at Card4B, working on a Ticketing Management system. Worked with technologies such as Java (Android), REST APIs, and Grafana, among others."
+      details: "As part of my master's thesis, I am currently an intern at Card4B, working on a Ticketing system for bank card payments in public transportation. Worked with technologies such as Java (Android), REST APIs, and Grafana, among others."
       date: "November 2024 - Present"
