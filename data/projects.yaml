@@ -11,9 +11,9 @@ projects:
     url: https://github.com/Simons36/esle24-g1
   - title: Event-driven Microservices platform | Kafka, Terraform, AWS, Quarkus
     url: https://github.com/Simons36/LaaS_Loyalty-as-a-Service
-  - title: Permissioned blockchain system with high dependability guarantees
+  - title: Permissioned blockchain system w/ high dependability guarantees | Java
     url: https://github.com/Simons36/hds-serenity-ledger
-  - title: E2E encrypted music streaming service
+  - title: E2E encrypted music streaming service | Java
     url: https://github.com/Simons36/sirs-project-2023
 - title: "Personal Projects"
   links:
