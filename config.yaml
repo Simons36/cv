@@ -66,6 +66,10 @@ params:
     - feature: interests
       widget: word-list
       style: list
+    - feature: hobby
+      title: Hobbies
+      collection: hobby
+      
   pages:
     - features:
         - feature: about
@@ -76,10 +80,6 @@ params:
           title: Experience
         - feature: projects
           collection: projects
-    - features:
-        - feature: hobby
-          title: Hobbies
-          collection: hobby
         
   footer:
     show: true

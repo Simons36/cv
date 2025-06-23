@@ -2,20 +2,22 @@
 
 @media print {
   @page {
-    size: A4;
+    size: 210mm 305mm;
     margin: 0;
   }
 
-  html, body {
-      background: #fff;
-      margin: 0;
-      padding: 0;
+  html,
+  body {
+    background: #fff;
+    margin: 0;
+    padding: 0;
   }
 
-  .paper, main.paper {
+  .paper,
+  main.paper {
     margin: 0;
     width: 210mm;
-    height: 297mm;
+    height: 305mm;
     overflow: hidden;
     -moz-box-shadow: none;
     -webkit-box-shadow: none;

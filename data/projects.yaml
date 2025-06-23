@@ -9,6 +9,8 @@ projects:
     url: https://github.com/Simons36/agisit24-g10
   - title: Deployment & Benchmark of YugabyteDB on GCP, w/ Ansible & Terraform
     url: https://github.com/Simons36/esle24-g1
+  - title: Event-driven Microservices platform | Kafka, Terraform, AWS, Quarkus
+    url: https://github.com/Simons36/LaaS_Loyalty-as-a-Service
   - title: Permissioned blockchain system with high dependability guarantees
     url: https://github.com/Simons36/hds-serenity-ledger
   - title: E2E encrypted music streaming service
