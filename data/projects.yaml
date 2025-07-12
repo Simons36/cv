@@ -13,11 +13,16 @@ projects:
     url: https://github.com/Simons36/LaaS_Loyalty-as-a-Service
   - title: Permissioned blockchain system w/ high dependability guarantees | Java
     url: https://github.com/Simons36/hds-serenity-ledger
-  - title: E2E encrypted music streaming service | Java
+  - title: E2E encrypted music streaming service | Java, Encryption Algorithms
     url: https://github.com/Simons36/sirs-project-2023
+  - title: Android application using Google APIs for location, maps | Kotlin, NestJS
+    url: https://github.com/Simons36/PharmacIST
+  - title: Computer Networks project, implemented UDP & TCP protocols in C
+    url: https://github.com/Simons36/word_game-rc
+
 - title: "Personal Projects"
   links:
   - title: My Personal Website
     url: https://simaosilva.com/
-  - title: A website for personal and course documentation (in development)
-    url: https://github.com/Simons36/docusaurus-site
+  - title: A website for personal and course documentation
+    url: https://notes.simaosilva.com/

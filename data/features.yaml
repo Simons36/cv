@@ -14,7 +14,7 @@ about:
           url: https://simaosilva.com
           icon: fas fa-globe
     details: |
-        Computer Science and Engineering student at Instituto Superior Técnico, intern at Card4B. Interest in **Backend**, **Distributed Systems**, **DevOps** and **Data Science**.
+        Computer Science and Engineering student at Instituto Superior Técnico, intern at Card4B. Interest in **Backend**, **Distributed Systems**, **DevOps**, **Cloud** and **Data Science**.
 
 skills:
     - groupName: Programming
@@ -25,6 +25,7 @@ skills:
           - C#
           - SQL
           - Typescript
+          - Kotlin (basic)
           - HTML/CSS (basic)
           - JavaScript (basic)
           - Go (basic)
@@ -63,6 +64,7 @@ interests:
     - Computer Networking
     - Backend Development
     - DevOps
+    - Cloud
     - Data
     - Cybersecurity
 
