@@ -50,6 +50,7 @@ skills:
           - Proxmox (basic)
           - Kubernetes (basic)
           - Kafka (basic)
+          - Github Actions (basic)
 
     - groupName: Frameworks
       list:
