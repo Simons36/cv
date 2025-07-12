@@ -22,7 +22,7 @@ projects:
 
 - title: "Personal Projects"
   links:
-  - title: My Personal Website
+  - title: My Personal Website (deployed w/ Github Pages and Actions)
     url: https://simaosilva.com/
-  - title: A website for personal and course documentation
+  - title: Simao's CS Notes (deployed w/ Github Pages and Actions)
     url: https://notes.simaosilva.com/
